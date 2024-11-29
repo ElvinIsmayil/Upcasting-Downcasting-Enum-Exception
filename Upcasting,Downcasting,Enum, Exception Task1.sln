@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Upcasting,Downcasting,Enum, Exception Task1", "Upcasting,Downcasting,Enum, Exception Task1\Upcasting,Downcasting,Enum, Exception Task1.csproj", "{A699CB4B-6FC1-42E6-96B3-363551392CF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Upcasting,Downcasting,Enum, Exception Task2", "Upcasting,Downcasting,Enum, Exception Task2\Upcasting,Downcasting,Enum, Exception Task2.csproj", "{375E9845-554F-4308-B897-2E155D33D7CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A699CB4B-6FC1-42E6-96B3-363551392CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A699CB4B-6FC1-42E6-96B3-363551392CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A699CB4B-6FC1-42E6-96B3-363551392CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A699CB4B-6FC1-42E6-96B3-363551392CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{375E9845-554F-4308-B897-2E155D33D7CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375E9845-554F-4308-B897-2E155D33D7CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375E9845-554F-4308-B897-2E155D33D7CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375E9845-554F-4308-B897-2E155D33D7CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

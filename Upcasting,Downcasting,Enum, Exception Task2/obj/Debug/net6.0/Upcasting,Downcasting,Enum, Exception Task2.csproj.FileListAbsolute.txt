@@ -1,0 +1,15 @@
+C:\Users\Elvin\Desktop\C#\Console Apps\Upcasting,Downcasting,Enum, Exception Task1\Upcasting,Downcasting,Enum, Exception Task2\bin\Debug\net6.0\Upcasting,Downcasting,Enum, Exception Task2.exe
+C:\Users\Elvin\Desktop\C#\Console Apps\Upcasting,Downcasting,Enum, Exception Task1\Upcasting,Downcasting,Enum, Exception Task2\bin\Debug\net6.0\Upcasting,Downcasting,Enum, Exception Task2.deps.json
+C:\Users\Elvin\Desktop\C#\Console Apps\Upcasting,Downcasting,Enum, Exception Task1\Upcasting,Downcasting,Enum, Exception Task2\bin\Debug\net6.0\Upcasting,Downcasting,Enum, Exception Task2.runtimeconfig.json
+C:\Users\Elvin\Desktop\C#\Console Apps\Upcasting,Downcasting,Enum, Exception Task1\Upcasting,Downcasting,Enum, Exception Task2\bin\Debug\net6.0\Upcasting,Downcasting,Enum, Exception Task2.dll
+C:\Users\Elvin\Desktop\C#\Console Apps\Upcasting,Downcasting,Enum, Exception Task1\Upcasting,Downcasting,Enum, Exception Task2\bin\Debug\net6.0\Upcasting,Downcasting,Enum, Exception Task2.pdb
+C:\Users\Elvin\Desktop\C#\Console Apps\Upcasting,Downcasting,Enum, Exception Task1\Upcasting,Downcasting,Enum, Exception Task2\obj\Debug\net6.0\Upcasting,Downcasting,Enum, Exception Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvin\Desktop\C#\Console Apps\Upcasting,Downcasting,Enum, Exception Task1\Upcasting,Downcasting,Enum, Exception Task2\obj\Debug\net6.0\Upcasting,Downcasting,Enum, Exception Task2.AssemblyInfoInputs.cache
+C:\Users\Elvin\Desktop\C#\Console Apps\Upcasting,Downcasting,Enum, Exception Task1\Upcasting,Downcasting,Enum, Exception Task2\obj\Debug\net6.0\Upcasting,Downcasting,Enum, Exception Task2.AssemblyInfo.cs
+C:\Users\Elvin\Desktop\C#\Console Apps\Upcasting,Downcasting,Enum, Exception Task1\Upcasting,Downcasting,Enum, Exception Task2\obj\Debug\net6.0\Upcasting,Downcasting,Enum, Exception Task2.csproj.CoreCompileInputs.cache
+C:\Users\Elvin\Desktop\C#\Console Apps\Upcasting,Downcasting,Enum, Exception Task1\Upcasting,Downcasting,Enum, Exception Task2\obj\Debug\net6.0\Upcasting,Downcasting,Enum, Exception Task2.sourcelink.json
+C:\Users\Elvin\Desktop\C#\Console Apps\Upcasting,Downcasting,Enum, Exception Task1\Upcasting,Downcasting,Enum, Exception Task2\obj\Debug\net6.0\Upcasting,Downcasting,Enum, Exception Task2.dll
+C:\Users\Elvin\Desktop\C#\Console Apps\Upcasting,Downcasting,Enum, Exception Task1\Upcasting,Downcasting,Enum, Exception Task2\obj\Debug\net6.0\refint\Upcasting,Downcasting,Enum, Exception Task2.dll
+C:\Users\Elvin\Desktop\C#\Console Apps\Upcasting,Downcasting,Enum, Exception Task1\Upcasting,Downcasting,Enum, Exception Task2\obj\Debug\net6.0\Upcasting,Downcasting,Enum, Exception Task2.pdb
+C:\Users\Elvin\Desktop\C#\Console Apps\Upcasting,Downcasting,Enum, Exception Task1\Upcasting,Downcasting,Enum, Exception Task2\obj\Debug\net6.0\Upcasting,Downcasting,Enum, Exception Task2.genruntimeconfig.cache
+C:\Users\Elvin\Desktop\C#\Console Apps\Upcasting,Downcasting,Enum, Exception Task1\Upcasting,Downcasting,Enum, Exception Task2\obj\Debug\net6.0\ref\Upcasting,Downcasting,Enum, Exception Task2.dll
